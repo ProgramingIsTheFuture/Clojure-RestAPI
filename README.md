@@ -9,7 +9,9 @@ To do scheme:
  - body string
 
 / GET -> receive all todos in json
+
 /:id GET -> receive the todo with this id
+
 / POST -> create a new todo (body must have a valid todo)
 
 ## Prerequisites
